@@ -11,9 +11,6 @@
     #define Godspeed                ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
     #define vpl vector< pair<ll,ll> >
     #define vpi vector< pair<int,int> >
-    #define vi vector<int>
-    #define vl vector<ll>
-    #define vdl vector<dl>
     #define vch vector<char>
     #define pb push_back
     #define mp make_pair
