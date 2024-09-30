@@ -16,7 +16,6 @@
     #define mp make_pair
     #define fr first
     #define se second
-    #define PI 3.14159265
 const ll N = 500005;
 const ll modls = 1e9 + 7;
 
