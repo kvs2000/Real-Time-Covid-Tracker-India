@@ -46,7 +46,8 @@ int32_t main() {
 
     while (test--) {
         ll n,x,t;
-        cin>>n>>x>>t;
+        cin>>n;
+        cin>>x>>t;
         ll v[n][2];
         unordered_map<ll,ll>m;
         for(ll i=0;i<n;i++)m[i*x]=1;
